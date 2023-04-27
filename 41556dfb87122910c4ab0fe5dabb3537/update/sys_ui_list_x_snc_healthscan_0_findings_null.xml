@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_healthscan_0_findings" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_healthscan_0_findings" element="NULL" name="x_snc_healthscan_0_findings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450c6db387522910c4ab0fe5dabb35a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:55:48</sys_created_on>
+            <sys_id>090c6db387522910c4ab0fe5dabb35aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:55:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>best_practice_url</element>
+            <list_id display_value="x_snc_healthscan_0_findings" element="NULL" name="x_snc_healthscan_0_findings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450c6db387522910c4ab0fe5dabb35a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:55:48</sys_created_on>
+            <sys_id>cd0c6db387522910c4ab0fe5dabb35aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:55:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="x_snc_healthscan_0_findings" element="NULL" name="x_snc_healthscan_0_findings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450c6db387522910c4ab0fe5dabb35a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:55:48</sys_created_on>
+            <sys_id>410c6db387522910c4ab0fe5dabb35ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:55:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>created_by</element>
+            <list_id display_value="x_snc_healthscan_0_findings" element="NULL" name="x_snc_healthscan_0_findings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450c6db387522910c4ab0fe5dabb35a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:55:48</sys_created_on>
+            <sys_id>c10c6db387522910c4ab0fe5dabb35ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:55:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>created_on</element>
+            <list_id display_value="x_snc_healthscan_0_findings" element="NULL" name="x_snc_healthscan_0_findings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450c6db387522910c4ab0fe5dabb35a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:55:48</sys_created_on>
+            <sys_id>450c6db387522910c4ab0fe5dabb35ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:55:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>definition_number</element>
+            <list_id display_value="x_snc_healthscan_0_findings" element="NULL" name="x_snc_healthscan_0_findings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450c6db387522910c4ab0fe5dabb35a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:55:48</sys_created_on>
+            <sys_id>c50c6db387522910c4ab0fe5dabb35ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:55:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>definition_product</element>
+            <list_id display_value="x_snc_healthscan_0_findings" element="NULL" name="x_snc_healthscan_0_findings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450c6db387522910c4ab0fe5dabb35a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:55:48</sys_created_on>
+            <sys_id>490c6db387522910c4ab0fe5dabb35ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:55:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>execution_instance</element>
+            <list_id display_value="x_snc_healthscan_0_findings" element="NULL" name="x_snc_healthscan_0_findings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450c6db387522910c4ab0fe5dabb35a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:55:48</sys_created_on>
+            <sys_id>c90c6db387522910c4ab0fe5dabb35ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:55:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ignore</element>
+            <list_id display_value="x_snc_healthscan_0_findings" element="NULL" name="x_snc_healthscan_0_findings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450c6db387522910c4ab0fe5dabb35a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:55:48</sys_created_on>
+            <sys_id>4d0c6db387522910c4ab0fe5dabb35ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:55:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>is_new</element>
+            <list_id display_value="x_snc_healthscan_0_findings" element="NULL" name="x_snc_healthscan_0_findings" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">450c6db387522910c4ab0fe5dabb35a8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:55:48</sys_created_on>
+            <sys_id>cd0c6db387522910c4ab0fe5dabb35ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:55:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_healthscan_0_findings</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:55:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>450c6db387522910c4ab0fe5dabb35a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_healthscan_0_findings</sys_name>
+            <sys_package display_value="HealthScan" source="x_snc_healthscan_0">41556dfb87122910c4ab0fe5dabb3537</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HealthScan">41556dfb87122910c4ab0fe5dabb3537</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_healthscan_0_findings_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:55:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

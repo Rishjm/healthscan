@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dd8ba1b387522910c4ab0fe5dabb357a" label="Findings" max_length="40" name="x_snc_healthscan_0_findings" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Best Practice URL" max_length="1024" name="best_practice_url" type="url"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Manageability" sequence="0" value="Manageability"/>
+                <element inactive_on_update="false" label="Performance" sequence="0" value="Performance"/>
+                <element inactive_on_update="false" label="Security" sequence="0" value="Security"/>
+                <element inactive_on_update="false" label="Upgradeability" sequence="0" value="Upgradeability"/>
+                <element inactive_on_update="false" label="User Experience" sequence="0" value="User Experience"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Created By" max_length="40" name="created_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Created On" max_length="40" name="created_on" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Definition Number" max_length="40" name="definition_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Definition Product" max_length="100" name="definition_product" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Execution Instance" max_length="40" name="execution_instance" type="string"/>
+        <element label="Ignore" max_length="40" name="ignore" type="boolean"/>
+        <element label="Is New" max_length="40" name="is_new" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product" max_length="100" name="product" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product Table" max_length="40" name="product_table" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Rating" max_length="40" name="rating" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Act" sequence="0" value="Act"/>
+                <element inactive_on_update="false" label="Discuss" sequence="0" value="Discuss"/>
+                <element inactive_on_update="false" label="Recommend" sequence="0" value="Recommend"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Recommendation" max_length="4000" name="recommendation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="500" name="short_description" type="string"/>
+        <element label="Source Base File" max_length="40" name="source_base_file" type="boolean"/>
+        <element label="Source Base Version" max_length="40" name="source_base_version" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Source Current Ver Src Display" max_length="200" name="source_current_ver_src_display" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Source Display" max_length="500" name="source_display" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Source Link" max_length="1024" name="source_link" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Source Sys ID" max_length="40" name="source_sys_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Source Table" max_length="100" name="source_table" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Source Table Pretty" max_length="100" name="source_table_pretty" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Source Value" max_length="100" name="source_value" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated By" max_length="40" name="updated_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated on" max_length="40" name="updated_on" type="glide_date_time"/>
+    </element>
+</database>
